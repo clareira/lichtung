@@ -18,6 +18,8 @@ your_submissions VARCHAR(10000) NOT NULL
 ```
 - place lichtung.php in /var/www/html/
 
+- change the db credentials, db name, table and column names in lichtung.php
+
 - navigate to http://your_ip_or_domain/lichtung.php and enjoy.
 
 most of your problems will be with permissions and apache2 settings but it's all been solved by someone in a forum somewhere, I'm sure.
@@ -25,4 +27,5 @@ most of your problems will be with permissions and apache2 settings but it's all
 ### FOOTNOTES
 
 All profits from this project go to the trash.
+
 Be safe.
